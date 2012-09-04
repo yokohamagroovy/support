@@ -20,6 +20,12 @@ Yokohama.groovy (ハッシュタグ：#yokohamagroovy )のコミュニティ用�
 
   * [タネマキ 【コワーキング ＆ シェアオフィススペース】](http://tane-maki.net/)
 
+サイトマップ
+============
+ * [Wiki](https://github.com/yokohamagroovy/support/wiki)
+
+  * 活動記録等を記録していきます。
+
 ハッシュタグ
 ============
  * #yokohamagroovy
