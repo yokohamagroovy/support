@@ -3,7 +3,7 @@
 
 [![Join the chat at https://gitter.im/yokohamagroovy/support](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yokohamagroovy/support?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Yokohama.groovy (ハッシュタグ：#yokohamagroovy )のコミュニティ用リポジトリです。
+Yokohama.groovy (ハッシュタグ：[#yokohamagroovy](https://twitter.com/search?q=%23yokohamagroovy) )のコミュニティ用リポジトリです。
 
 このコミュニティについて
 ========================
@@ -16,11 +16,13 @@ Yokohama.groovy (ハッシュタグ：#yokohamagroovy )のコミュニティ用�
 
 主な活動時間帯、地域など
 ========================
- * 活動時間帯：おおよそ、隔週で月曜日or火曜日の夜20:00〜22:00辺りを目処に。
+ * 活動時間帯: おおよそ、毎月１回。土曜日or日曜日の13:30〜18:50辺りを目処に。
 
- * 活動場所：基本横浜駅及び横浜市内。
+ * 活動場所: 基本横浜駅及び横浜市内。
 
   * [タネマキ 【コワーキング ＆ シェアオフィススペース】](http://tane-maki.net/)
+
+ * connpass: http://connpass.com/series/253/
 
 サイトマップ
 ============
